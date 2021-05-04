@@ -1,0 +1,5 @@
+C:/Users/yuzuki/CLionProjects/HelloWorldC/cmake-build-debug-mingw/CMakeFiles/06_debug.c.dir
+C:/Users/yuzuki/CLionProjects/HelloWorldC/cmake-build-debug-mingw/CMakeFiles/main.c.dir
+C:/Users/yuzuki/CLionProjects/HelloWorldC/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/yuzuki/CLionProjects/HelloWorldC/cmake-build-debug-mingw/CMakeFiles/varargs.c.dir
+C:/Users/yuzuki/CLionProjects/HelloWorldC/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
